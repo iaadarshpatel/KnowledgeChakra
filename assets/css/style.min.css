@@ -16,6 +16,10 @@ body {
     box-sizing: border-box
 }
 
+.text-color{
+    color: #f56212;
+}
+
 img {
     max-width: 100%;
     height: auto
